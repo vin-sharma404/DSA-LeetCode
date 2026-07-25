@@ -8,44 +8,42 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-
-
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
 
-        if (head == null || k == 1)
-            return head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
 
-        ArrayList<ListNode> list = new ArrayList<>();
+        ListNode prevGroup = dummy;
 
-        ListNode temp = head;
-        while (temp != null) {
-            list.add(temp);
-            temp = temp.next;
-        }
+        while (true) {
 
-        for (int i = 0; i + k <= list.size(); i += k) {
-
-            int left = i;
-            int right = i + k - 1;
-
-            while (left < right) {
-                ListNode swap = list.get(left);
-                list.set(left, list.get(right));
-                list.set(right, swap);
-
-                left++;
-                right--;
+         
+            ListNode kth = prevGroup;
+            for (int i = 0; i < k && kth != null; i++) {
+                kth = kth.next;
             }
+
+            if (kth == null)
+                break;
+
+            ListNode groupNext = kth.next;
+
+            ListNode prev = groupNext;
+            ListNode curr = prevGroup.next;
+
+            while (curr != groupNext) {
+                ListNode next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+
+            ListNode temp = prevGroup.next; 
+            prevGroup.next = kth;
+            prevGroup = temp;
         }
 
-        for (int i = 0; i < list.size() - 1; i++) {
-            list.get(i).next = list.get(i + 1);
-        }
-
-        list.get(list.size() - 1).next = null;
-
-        
-        return list.get(0);
+        return dummy.next;
     }
 }
