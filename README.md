@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
