@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
