@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
 ## Monotonic Stack
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
