@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
