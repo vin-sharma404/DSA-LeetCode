@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
