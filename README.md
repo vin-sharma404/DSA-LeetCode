@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0443-string-compression) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
