@@ -6,22 +6,19 @@ class Solution {
                 st.push(ch);
             }
             if(ch==')'){
-                if(st.isEmpty() || st.peek()!='('){
+                if(st.isEmpty() || st.pop()!='('){
                     return false;
                 }
-                st.pop();
             }
              if(ch=='}'){
-                if(st.isEmpty() || st.peek()!='{'){
+                if(st.isEmpty() || st.pop()!='{'){
                     return false;
                 }
-                st.pop();
             }
              if(ch==']'){
-                if(st.isEmpty() || st.peek()!='['){
+                if(st.isEmpty() || st.pop()!='['){
                     return false;
                 }
-                st.pop();
             }
         }
        return st.isEmpty();
