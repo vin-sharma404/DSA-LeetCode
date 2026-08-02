@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
