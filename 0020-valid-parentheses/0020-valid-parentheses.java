@@ -5,17 +5,17 @@ class Solution {
             if(ch=='(' || ch=='{' || ch=='['){
                 st.push(ch);
             }
-            if(ch==')'){
+            else if(ch==')'){
                 if(st.isEmpty() || st.pop()!='('){
                     return false;
                 }
             }
-             if(ch=='}'){
+            else if(ch=='}'){
                 if(st.isEmpty() || st.pop()!='{'){
                     return false;
                 }
             }
-             if(ch==']'){
+            else if(ch==']'){
                 if(st.isEmpty() || st.pop()!='['){
                     return false;
                 }
