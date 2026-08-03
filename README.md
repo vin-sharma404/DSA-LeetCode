@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
