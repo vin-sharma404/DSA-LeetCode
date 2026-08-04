@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
 |  |
 | ------- |
