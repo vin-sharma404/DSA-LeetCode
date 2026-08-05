@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0032-longest-valid-parentheses) |
+| [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -231,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
