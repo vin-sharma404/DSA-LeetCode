@@ -15,11 +15,7 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        int check=height(root);
-        if(check==-1){
-            return false;
-        }
-        return true;
+        return height(root)!=-1;
     }
     private int height(TreeNode root){
         if(root == null){
