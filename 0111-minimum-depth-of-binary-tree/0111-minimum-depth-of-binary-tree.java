@@ -15,24 +15,29 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        return minHeight(root);
-    }
-    private int minHeight(TreeNode root){
         if(root==null){
             return 0;
         }
-        if(root.left==null){
-            return minHeight(root.right)+1;
-        }
-        
-        if(root.right==null){
-            return minHeight(root.left)+1;
-        }
-        int left=minHeight(root.left);
-        int right=minHeight(root.right);
-        
-        
-        return Math.min(left,right)+1;
+        Queue<TreeNode> q= new LinkedList<>();
+        q.offer(root);
+        int minHeight=1;
 
+        while(!q.isEmpty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode node=q.poll();
+                if(node.left == null && node.right==null){
+                    return minHeight;
+                }
+                if(node.left!=null){
+                    q.offer(node.left);
+                }
+                if(node.right!=null){
+                    q.offer(node.right);
+                }
+            }
+            minHeight++;
+        }
+        return minHeight;
     }
 }
