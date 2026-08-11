@@ -22,14 +22,17 @@ class Solution {
             return 0;
         }
         if(root.left==null){
-            return minDepth(root.right)+1;
+            return minHeight(root.right)+1;
         }
+        
         if(root.right==null){
-            return minDepth(root.left)+1;
+            return minHeight(root.left)+1;
         }
+        int left=minHeight(root.left);
+        int right=minHeight(root.right);
         
         
-        return Math.min(minDepth(root.left),minDepth(root.right))+1;
+        return Math.min(left,right)+1;
 
     }
 }
