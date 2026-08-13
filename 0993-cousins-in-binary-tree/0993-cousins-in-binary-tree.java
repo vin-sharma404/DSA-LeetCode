@@ -1,43 +1,40 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-    TreeNode xParent=null;
-    TreeNode yParent=null;
-    int xDepth=-1;
-    int yDepth=-1;
     public boolean isCousins(TreeNode root, int x, int y) {
-        dfs(root,null,0,x,y);
-        if(xDepth==yDepth && xParent!=yParent){
-            return true;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            boolean foundX = false;
+            boolean foundY = false;
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                if (node.left != null && node.right != null) {
+                    if ((node.left.val == x && node.right.val == y) ||
+                        (node.left.val == y && node.right.val == x)) {
+                        return false;
+                    }
+                }
+                if (node.val == x) {
+                    foundX = true;
+                }
+                if (node.val == y) {
+                    foundY = true;
+                }
+                if (node.left != null) {
+                    q.add(node.left);
+                }
+                if (node.right != null) {
+                    q.add(node.right);
+                }
+            }
+            if (foundX && foundY) {
+                return true;
+            }
+            if (foundX || foundY) {
+                return false;
+            }
         }
-       return false;
-    }
-    private void dfs(TreeNode node,TreeNode parent,int depth,int x,int y){
-        if(node==null){
-            return;
-        }
-        if(node.val==x){
-            xParent=parent;
-            xDepth=depth;
-        }
-        if(node.val==y){
-            yParent=parent;
-            yDepth=depth;
-        }
-        dfs(node.left,node,depth+1,x,y);
-        dfs(node.right,node,depth+1,x,y);
+        return false;
     }
 }
