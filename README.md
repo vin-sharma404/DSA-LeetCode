@@ -80,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
@@ -363,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
