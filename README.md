@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0199-binary-tree-right-side-view) |
@@ -386,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
