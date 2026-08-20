@@ -26,24 +26,22 @@ class Solution {
         if(root==null){
             return root;
         }
-        Queue<Node> q= new LinkedList<>();
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                Node node=q.poll();
-                if(i<size-1){
-                    node.next=q.peek();
-                }
-                if(node.left!=null){
-                    q.offer(node.left);
-                }
-                if(node.right!=null){
-                    q.offer(node.right);
-                }
-            }
-        }
+        dfs(root);
         return root;
+    }
+
+    private void dfs(Node node){
+        if(node==null || node.left==null){
+            return;
+        }
+
+        node.left.next=node.right;
+
+        if(node.next!=null){
+            node.right.next=node.next.left;
+        }
+
+        dfs(node.left);
+        dfs(node.right);
     }
 }
