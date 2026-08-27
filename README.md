@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
