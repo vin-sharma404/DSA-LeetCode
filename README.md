@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
