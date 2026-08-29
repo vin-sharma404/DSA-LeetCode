@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0061-rotate-list) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
