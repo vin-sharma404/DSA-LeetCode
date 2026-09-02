@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2285-maximum-total-importance-of-roads) |
 ## Simulation
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2285-maximum-total-importance-of-roads) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
@@ -456,4 +459,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2285-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
