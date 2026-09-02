@@ -9,7 +9,7 @@ class Solution {
         Arrays.sort(degree);
         long maxImportance=0;
 
-        int label=1;
+        long label=1;
         for(int i=0;i<n;i++){
             maxImportance += degree[i] * label;
             label++;
