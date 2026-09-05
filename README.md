@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
