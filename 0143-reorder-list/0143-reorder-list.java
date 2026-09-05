@@ -10,44 +10,31 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-
-        if (head.next == null)
+        
+        ArrayList<Integer>list=new ArrayList<>();
+        if(head.next==null){
             return;
-
-        // Step 1: Find the middle
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast.next != null && fast.next.next != null) {
-            slow = slow.next;
-            fast = fast.next.next;
         }
-
-        // Step 2: Reverse the second half
-        ListNode prev = null;
-        ListNode curr = slow.next;
-        slow.next = null;
-
-        while (curr != null) {
-            ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+        ListNode temp=head;
+        while(temp!=null){
+            list.add(temp.val);
+            temp=temp.next;
         }
-
-        // Step 3: Merge the two halves
-        ListNode first = head;
-        ListNode second = prev;
-
-        while (second != null) {
-            ListNode next1 = first.next;
-            ListNode next2 = second.next;
-
-            first.next = second;
-            second.next = next1;
-
-            first = next1;
-            second = next2;
+        ArrayList<Integer> ans= new ArrayList<>();
+        int left =0;
+        int right=list.size()-1;
+        while(left<=right){
+            ans.add(list.get(left));
+            ans.add(list.get(right));
+            left++;
+            right--;
+        }
+        
+        temp=head;
+        int index=0;
+        while(temp!=null){
+           temp.val=ans.get(index++);
+           temp=temp.next;
         }
     }
 }
