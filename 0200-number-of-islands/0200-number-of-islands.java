@@ -16,19 +16,18 @@ class Solution {
         }
         return islands;
     }
-
-    public void dfs(int row,int col,char[][] grid, boolean[][] visited){
-        if(row<0 || row>=rows || col<0 || col>=cols || grid[row][col] == '0' || visited[row][col]){
+    public void dfs(int i,int j, char[][] grid, boolean[][] visited){
+        if(i<0 || i>=rows || j<0 || j>=cols || grid[i][j] == '0' || visited[i][j]){
             return;
         }
-        visited[row][col]=true;
-        int[][] adjList= {
-            {row-1,col},
-            {row,col+1},
-            {row+1,col},
-            {row,col-1}
+        int adj[][]={
+            {i-1,j},
+            {i,j+1},
+            {i+1,j},
+            {i,j-1}
         };
-        for(int[] neighbour : adjList){
+        visited[i][j]=true;
+        for(int[] neighbour : adj){
             dfs(neighbour[0],neighbour[1],grid,visited);
         }
     }
