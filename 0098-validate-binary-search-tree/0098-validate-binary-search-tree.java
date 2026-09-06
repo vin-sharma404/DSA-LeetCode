@@ -28,6 +28,6 @@ class Solution {
         boolean left= validate(root.left,min,root.val);
         boolean right=validate(root.right,root.val,max);
 
-        return left & right;
+        return left && right;
     }
 }
