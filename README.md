@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
 ## Pigeonhole Principle
 |  |
 | ------- |
