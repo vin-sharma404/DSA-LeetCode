@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
