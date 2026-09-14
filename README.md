@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
