@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Bracket Sequences
 |  |
@@ -531,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
