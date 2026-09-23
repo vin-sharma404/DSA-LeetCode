@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0875-koko-eating-bananas) |
 ## Bucket Sort
 |  |
