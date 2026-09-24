@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0933-number-of-recent-calls) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
