@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
