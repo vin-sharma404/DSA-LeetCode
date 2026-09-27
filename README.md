@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
 ## Pigeonhole Principle
 |  |
