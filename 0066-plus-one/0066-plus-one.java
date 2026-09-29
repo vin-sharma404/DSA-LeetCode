@@ -9,7 +9,7 @@ class Solution {
             digits[i] = 0;
         }
 
-        // if each digit of array is 9
+        // if each digit is 9
         int[] ans = new int[digits.length + 1];
         ans[0] = 1;
 
