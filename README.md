@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
