@@ -4,14 +4,15 @@ class Solution {
             return x;
         }
         int left=1;
-        int right=x/2;
+        int right=x/2;   //sq root x/2 se chote hi hote h
+
         while(left<=right){
             int mid=left+(right-left)/2;
-            long square=(long)mid*mid;
-            if(square==x){
+            long sq= (long)mid*mid;
+            if(sq==x){
                 return mid;
             }
-            if(square<x){
+            if(sq<x){
                 left=mid+1;
             }
             else{
