@@ -9,7 +9,7 @@ class Solution {
             int mid=low+(high-low)/2;
             int hours=0;
             for(int pile:piles){
-                hours+=(pile+mid-1)/mid;
+                hours+=(pile+mid-1)/mid;     //ciel value
             }
             if(hours<=h){
                 high=mid;
@@ -18,6 +18,6 @@ class Solution {
                 low=mid+1;
             }
         }
-        return low;
+        return high;
     }
 }
