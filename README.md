@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0905-sort-array-by-parity) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bucket Sort
 |  |
 | ------- |
