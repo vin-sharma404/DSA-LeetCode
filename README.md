@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bucket Sort
 |  |
 | ------- |
