@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0088-merge-sorted-array) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0733-flood-fill) |
 ## Z Algorithm
