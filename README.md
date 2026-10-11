@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1512-number-of-good-pairs) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
@@ -618,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1392-longest-happy-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
