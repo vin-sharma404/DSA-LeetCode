@@ -3,6 +3,11 @@ class Solution {
         //BY KMP ALGO
         int n=haystack.length();
         int m=needle.length();
+
+        if(m == 0){
+            return 0;
+        }
+        
         int[] lps= buildLPS(needle);
         int i=0;
         int j=0;
