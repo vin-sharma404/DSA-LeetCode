@@ -1,5 +1,6 @@
 class Solution {
     public int strStr(String haystack, String needle) {
+        //BY KMP ALGO
         int n=haystack.length();
         int m=needle.length();
         int[] lps= buildLPS(needle);
