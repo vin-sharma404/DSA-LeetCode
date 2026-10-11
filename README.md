@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0485-max-consecutive-ones) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0733-flood-fill) |
 ## Z Algorithm
 |  |
