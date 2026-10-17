@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
