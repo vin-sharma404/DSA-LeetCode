@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1710-maximum-units-on-a-truck) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1929-concatenation-of-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1929-concatenation-of-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
