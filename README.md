@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2285-maximum-total-importance-of-roads) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1929-concatenation-of-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bucket Sort
 |  |
 | ------- |
