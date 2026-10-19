@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/1480-running-sum-of-1d-array) |
