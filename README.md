@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0905-sort-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0523-continuous-subarray-sum) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0485-max-consecutive-ones) |
@@ -544,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0701-insert-into-a-binary-search-tree) |
