@@ -11,16 +11,12 @@ class Solution {
             res.add(new ArrayList<>(current));
             return;
         }
-
         //include
         current.add(nums[index]);
-
         //pick
         subsequences(index+1,nums,current,res);
-
         //remove
         current.remove(current.size()-1);
-
         //no pick
         subsequences(index+1,nums,current,res);
     }
