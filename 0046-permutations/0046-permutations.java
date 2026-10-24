@@ -6,6 +6,7 @@ class Solution {
         return res;
     }
     public void backtrack(int[] nums, List<Integer> current, List<List<Integer>> res ){
+        //base case
         if(current.size() == nums.length){
             res.add(new ArrayList<>(current));
             return;
