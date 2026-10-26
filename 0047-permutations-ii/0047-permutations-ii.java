@@ -16,7 +16,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             // if seen then skip
             if(seen[i]) continue;
-            //avoid dup
+            //avoid duplicates
             if(i>0 && nums[i] == nums[i-1] && !seen[i-1]){
                 continue;
             }
