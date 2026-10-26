@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0090-subsets-ii) |
