@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Monotonic Stack
 |  |
