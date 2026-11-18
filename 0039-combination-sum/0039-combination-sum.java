@@ -6,11 +6,11 @@ class Solution {
         return res;
     }
     public void backtrack(int index, int[] candidates, List<Integer> current, List<List<Integer>> res, int target ){
-        if(target==0){
+        if(target==0){          //found a combination
             res.add(new ArrayList<>(current));
             return;
         }
-        if(index==candidates.length){
+        if(index==candidates.length){       //no elements left
             return;
         }
         //pick
