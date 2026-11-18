@@ -13,11 +13,13 @@ class Solution {
         if(index==candidates.length){
             return;
         }
+        //pick
         if(candidates[index]<=target){
             current.add(candidates[index]);
             backtrack(index,candidates,current,res,target-candidates[index]);
             current.remove(current.size()-1);
         }
+        //no pick
         backtrack(index+1,candidates,current,res,target);
     }
 }
