@@ -12,7 +12,7 @@ class Solution {
             return;
         }
         for(int i=index;i<candidates.length;i++){
-            if(i==index || (candidates[i]!=candidates[i-1] && candidates[i]<=target)){
+            if((i==index || candidates[i]!=candidates[i-1]) && (candidates[i]<=target)){
                 current.add(candidates[i]);
                 backtrack(i+1,res,current,candidates,target-candidates[i]);
                 current.remove(current.size()-1);
