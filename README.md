@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0202-happy-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0042-trapping-rain-water) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0046-permutations) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0200-number-of-islands) |
@@ -729,6 +733,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
