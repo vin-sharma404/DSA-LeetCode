@@ -1,20 +1,20 @@
 class Solution {
     public int fib(int n) {
-        //Memoization-Top Down approach 
-        //TC- o(n)
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return recur(n,dp);
-    }
-    public int recur(int n, int[] dp){
+        //Tabulation - Bottom Up approach
+        //Tc-O(n) withing using extra array
+        
         if(n<=1){
-            dp[n]=n;
-            return dp[n];
+            return n;
         }
-        if(dp[n]!=-1){
-            return dp[n];
+
+        int prev1=1;
+        int prev2=0;
+        int ans=0;
+        for(int state=2;state<=n;state++){
+            ans=prev1+prev2;
+            prev2=prev1;
+            prev1=ans;
         }
-        dp[n]= recur(n-1,dp) + recur(n-2,dp);
-        return dp[n];
+        return ans;
     }
 }
