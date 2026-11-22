@@ -1,5 +1,7 @@
 class Solution {
     public int fib(int n) {
+        //Memoization-Top Down approach 
+        //TC- o(n)
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
         return recur(n,dp);
