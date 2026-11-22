@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0058-length-of-last-word) |
+| [0131-palindrome-partitioning](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0877-stone-game) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
