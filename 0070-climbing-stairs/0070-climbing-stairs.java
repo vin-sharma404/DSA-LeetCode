@@ -1,15 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
+        //Memoization 
+        int[] dp =new int[n+1];
+        Arrays.fill(dp,-1);
+        return memo(dp,n);
+    }
+    public int memo(int[] dp, int n){
         if(n<=2){
+            dp[n]=n;
             return n;
         }
-        int prev1=1;
-        int prev2=2;
-        for(int i=3;i<=n;i++){
-            int temp= prev1+prev2;
-            prev1=prev2;
-            prev2=temp;
+        if(dp[n]!=-1){
+            return dp[n];
         }
-        return prev2;
+        dp[n]= memo(dp,n-1) + memo(dp,n-2);
+        return dp[n];
     }
 }
