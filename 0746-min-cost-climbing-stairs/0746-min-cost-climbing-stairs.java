@@ -1,5 +1,7 @@
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
+        //Memoization 
+        //TC-O(N);
         int n=cost.length;
         int[] dp = new int[n+1];
         Arrays.fill(dp,-1);
