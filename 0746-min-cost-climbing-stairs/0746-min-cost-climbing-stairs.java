@@ -1,23 +1,18 @@
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
-        //Memoization 
-        //TC-O(N);
+        //Tabulation - without using dp array;
         int n=cost.length;
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return recur(n,cost,dp);
-    }
-    public int recur(int n,int[] cost,int[] dp){
-        if(n<=1){
-            dp[n]=0;
-            return 0;
+        int prev1=0;
+        int prev2=0;
+        int ans=0;
+        for(int state=2;state<=n;state++){
+            int oneStep= cost[state-1] + prev1;
+            int twoStep=cost[state-2]+ prev2;
+            ans=Math.min(oneStep,twoStep);
+            prev2=prev1;
+            prev1=ans;
         }
-        if(dp[n]!=-1){
-            return dp[n];
-        }
-        int oneStep = cost[n-1] + recur(n-1,cost,dp);
-        int twoStep = cost[n-2] + recur(n-2,cost,dp);
-        dp[n]=Math.min(oneStep,twoStep);
-        return dp[n];
+        return ans;
+
     }
 }
