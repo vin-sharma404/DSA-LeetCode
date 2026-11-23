@@ -1,5 +1,7 @@
 class Solution {
     public int climbStairs(int n) {
+        //Tabulation 
+        //TC-O(n)  SC-O(n)
         if(n<=2){
             return n;
         }
