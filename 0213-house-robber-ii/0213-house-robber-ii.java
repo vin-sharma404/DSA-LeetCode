@@ -1,5 +1,7 @@
 class Solution {
     public int rob(int[] nums) {
+        //same as HR-1
+        //space optimized -tabulation
         int n=nums.length;
         if(n==1){
             return nums[0];
