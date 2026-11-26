@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0075-sort-colors) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0844-backspace-string-compare) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vin-sharma404/DSA-LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
