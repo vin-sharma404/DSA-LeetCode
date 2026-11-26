@@ -21,14 +21,14 @@ class Solution {
                 for(int i=right;i>=left;i--){
                     res.add(matrix[bottom][i]);
                 }
+                bottom--;
             }
-            bottom--;
             if(left<=right){
                 for(int i=bottom;i>=top;i--){
                     res.add(matrix[i][left]);
                 }
+                left++;
             }
-            left++;
         }
         return res;
 
